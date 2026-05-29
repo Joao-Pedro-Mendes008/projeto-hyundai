@@ -1,9 +1,5 @@
 import java.util.ArrayList;
 import javax.swing.JOptionPane;
-import javax.swing.JPanel;
-import javax.swing.JTextField;
-import java.awt.GridLayout;
-import java.awt.Label;
 import java.util.HashMap;
 import funcoes.Metodos;
 
